@@ -104,16 +104,16 @@ export const projects = [
     image: "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?auto=format&fit=crop&w=800&q=80"
   },
   {
-    title: "Power BI Dashboard 4",
+    title: "Bank Loan Analysis Dashboard",
     category: "Business Intelligence",
     year: "2026",
     technologies: ["Power BI", "Data Visualization", "DAX"],
-    description: "Interactive Business Intelligence Dashboard created in Power BI for financial modeling and analysis.",
+    description: "Interactive Business Intelligence Dashboard created in Power BI to monitor loan applications, funding amounts, repayments, and credit risk profiles.",
     accomplishments: [
-      "Financial ratio and claims analysis charts.",
-      "Interactive data-drill-down dashboard filters."
+      "Analyzed loan application details, credit quality, and bad loan trends.",
+      "Built interactive visuals for regional distribution and loan term details."
     ],
-    dashboardUrl: "https://app.powerbi.com/links/m6ASO5mDcS?ctid=6d28e4fb-9074-4a0b-a5b8-9a89f632cc60&pbi_source=linkShare",
+    dashboardUrl: "https://app.powerbi.com/reportEmbed?reportId=59196896-b349-41a8-a2e2-00b8278b32af&autoAuth=true&ctid=6d28e4fb-9074-4a0b-a5b8-9a89f632cc60",
     image: "https://images.unsplash.com/photo-1590283603385-17ffb3a7f29f?auto=format&fit=crop&w=800&q=80"
   }
 ];
