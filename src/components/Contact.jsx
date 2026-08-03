@@ -226,13 +226,6 @@ export const Contact = () => {
               )}
             </div>
 
-            {/* Simulated Contact Disclaimer */}
-            <div className="mt-4 flex gap-3 p-4 bg-white border border-brand-border rounded text-[11px] text-brand-text-muted font-sans shadow-sm">
-              <AlertCircle size={15} className="text-brand-gold flex-shrink-0 mt-0.5" />
-              <div>
-                <span className="font-bold text-brand-text-dark">Developer Note:</span> Currently, this form operates in frontend-only simulation mode. To enable real email submissions, connect a service such as Formspree, EmailJS, or Resend.
-              </div>
-            </div>
           </div>
         </div>
       </section>
